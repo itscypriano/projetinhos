@@ -13,4 +13,5 @@
 ## Linguagens 🎮
 
 **JavaScript** 
-* [relógio dinâmico](https://github.com/itscypriano/projetinhos/tree/main/relogio-js) 
+* [relógio dinâmico](https://github.com/itscypriano/projetinhos/tree/main/relogio-js)
+* [player de música](https://github.com/itscypriano/projetinhos/tree/main/player-musica-js)
