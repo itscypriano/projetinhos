@@ -14,8 +14,11 @@
 
 **JavaScript** 
 
+* [geolocalização com mapa](https://github.com/itscypriano/projetinhos/tree/main/geolocalizacao-js)
+<img src="https://github.com/itscypriano/projetinhos/blob/main/geolocalizacao-com-mapa-js/header/geolocalizacao-com-mapa-print.png" width="30%">
+
 * [geolocalização](https://github.com/itscypriano/projetinhos/tree/main/geolocalizacao-js)
-<img src="https://github.com/itscypriano/projetinhos/blob/main/geolocalizacao-js/header/geolocalizacao-print.png" width="30%">
+<img src="https://github.com/itscypriano/projetinhos/blob/main/geolocalizacao-js/header/geolocalizacao-js.png" width="30%">
 
 * [ratinho audiovisuais](https://github.com/itscypriano/projetinhos/tree/main/ratinho-js)
 <img src="https://github.com/itscypriano/projetinhos/blob/main/ratinho-js/header/ratinho-js-print.png" width="30%">
