@@ -14,6 +14,10 @@
 
 **JavaScript** 
 
+* [ratinho audiovisuais](https://github.com/itscypriano/projetinhos/tree/main/ratinho-js)
+<img src="https://github.com/itscypriano/projetinhos/blob/main/ratinho-js/header/ratinho-js-print.png" width="30%">
+
+
 * [player de música](https://github.com/itscypriano/projetinhos/tree/main/player-musica-js)
 <img src="https://github.com/itscypriano/projetinhos/blob/main/player-musica-js/header/player-musica-print.png" width="30%">
 
