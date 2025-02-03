@@ -14,6 +14,13 @@
 
 **HTML / CSS / JavaScript** 
 
+* [timer pomodoro](https://github.com/itscypriano/projetinhos/tree/main/pomodoro-timer-js)
+<img src="https://github.com/itscypriano/projetinhos/blob/main/tela-login-dark/header/pomodoro-timer-print.png" width="40%">
+
+>projeto criado com javascript, html e css, que funciona como um relógio com alarme que segue o método de gerenciamento do tempo de estudo pomodoro.
+<br>
+
+
 * [tela de login tema escuro](https://github.com/itscypriano/projetinhos/tree/main/geolocalizacao-js)
 <img src="https://github.com/itscypriano/projetinhos/blob/main/tela-login-dark/header/tela-dark-login-print.png" width="40%">
 
