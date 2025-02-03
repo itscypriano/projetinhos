@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Pomodoro Timer</title>
+</head>
+
+<body>
+    <div class="coitainer">
+        <div class="card">
+            <div class="card-header">
+                <h1>Pomodoro Timer</h1>
+                <div class="card-header-buttons">
+                    <button id="buttonTypePomodoro" class="active">
+                        Pomodoro </button>
+                    <button id="buttonTypeShortBreak">
+                        Short Break
+                    </button>
+                </div>
+
+                <div class="card-body">
+                    <div id="CircularProgressBar" class="progress-bar">
+                        <div class="progress-bar-inner">
+                            <h2 class="progress-value">
+                                25:00
+                            </h2>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="card-footer">
+                    <button class="btn-sucess" onclick="startTimer();">
+                        Start
+                    </button>
+                    <button class="btn-danger" onclick="stopTimer();">
+                        Stop
+                    </button>
+                    <button>
+                        Reset
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
