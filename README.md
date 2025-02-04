@@ -14,6 +14,12 @@
 
 **HTML / CSS / JavaScript** 
 
+* [coffe page](https://github.com/itscypriano/projetinhos/tree/main/coffe-page)
+<img src="https://github.com/itscypriano/projetinhos/blob/main/coffe-page/header/coffe.gif" width="40%">
+
+>projeto criado puramente com html e css, que consiste numa página com 5 seções (home, sobre nós, avaliações, reviews & endereço) de uma cafeteria.
+<br>
+
 * [timer pomodoro](https://github.com/itscypriano/projetinhos/tree/main/pomodoro-timer-js)
 <img src="https://github.com/itscypriano/projetinhos/blob/main/pomodoro-timer-js/header/pomodoro-timer-print.png" width="40%">
 
@@ -21,13 +27,13 @@
 <br>
 
 
-* [tela de login tema escuro](https://github.com/itscypriano/projetinhos/tree/main/geolocalizacao-js)
+* [tela de login tema escuro](https://github.com/itscypriano/projetinhos/tree/main/tela-login-dark)
 <img src="https://github.com/itscypriano/projetinhos/blob/main/tela-login-dark/header/tela-dark-login-print.png" width="40%">
 
 >projeto criado com javascript, html e css, que consiste numa tela de login padrão e responsiva padrão.
 <br>
 
-* [geolocalização com mapa](https://github.com/itscypriano/projetinhos/tree/main/geolocalizacao-js)
+* [geolocalização com mapa](https://github.com/itscypriano/projetinhos/tree/main/geolocalizacao-com-mapa-js)
 <img src="https://github.com/itscypriano/projetinhos/blob/main/geolocalizacao-com-mapa-js/header/geolocalizacao-com-mapa-print.png" width="40%">
 
 >projeto criado com javascript, html e css, que pega a localização do usuário e exibe a latitude e longitude, além de também usar o mapa dinâmico e open-source oferecido pela Leaflet.
